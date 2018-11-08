@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+VickyViewTool::Renderer.copyright 'Vicky Gupta', 'All rights reserved'
+```
 
 ## Development
 
